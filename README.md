@@ -32,3 +32,11 @@
 
 7. Add a form to your page takes the value from a user input box and adds it into your `topics` array. Then make a function call that takes each topic in the array remakes the buttons on the page.
 
+// call the GIPHY API 
+// Performing GET requests to the GIPHY API and logging the responses to the console
+// Constructing a queryURL variable we will use instead of the literal string inside of the ajax method
+
+// Use JavaScript and jQuery to change the HTML elements
+    // Generate buttons for each element in array topics
+    // Enable user to click on the topicButton - 10 static gifs place on the page
+    // Enable user to click on the gifButton - pause gif animation and show git animation 
