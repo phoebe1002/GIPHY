@@ -5,7 +5,7 @@ Use the GIPHY API to make a dynamic web page that populates with gifs
 This game has been deployed to GitHub Pages:https://phoebe1002.github.io/GIPHY1
 
 ## Technologies
-* HTML, CSS, Bootstrap
+* HTML, CSS
 * JavaScript, jQuery
 * AJAX
 * [GIPHY API](https://developers.giphy.com/)
